@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Assignment5_Jico.jico_Products" CodeBehind="jico_Products.svc.cs" %>
